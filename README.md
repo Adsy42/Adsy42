@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Eldaly</h1>
-<h3 align="center">Aspiring back-end software developer & A.I/M.L enthusiast</h3>
+<h3 align="center">Backend Software Engineer & A.I/M.L enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsy42&label=Profile%20views&color=0e75b6&style=flat" alt="adsy42" /> </p>
 
