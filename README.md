@@ -7,6 +7,6 @@
 
 - 📫 How to reach me **adsy2004@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/18IvZ4I5GStqSnGqLhLY9QiaUgPc12tNsekQ1xaXIPAE/edit?usp=sharing](https://docs.google.com/document/d/18IvZ4I5GStqSnGqLhLY9QiaUgPc12tNsekQ1xaXIPAE/edit?usp=sharing)
+- 📄 [Check out my Resume](https://docs.google.com/document/d/1hreiiZEh5OeYboYkANIeTPxkRwoFNqzpbiRUTghfMBQ/edit?usp=sharing)
 
 - ⚡ Fun fact **iShowSpeed follows me on instagram :)**
